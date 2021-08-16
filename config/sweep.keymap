@@ -213,12 +213,12 @@
                         timeout-ms = <50>;
                         key-positions = <2 3>;
                         bindings = <&kp T>;
-                }
+                };
                 c_Y {
                         timeout-ms = <50>;
                         key-positions = <6 7>;
                         bindings = <&kp Y>;
-                }
+                };
         };
 
         keymap {
